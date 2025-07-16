@@ -12,6 +12,12 @@ clone the repository
 
 create a virtual environment with
 
+`conda env create -f MitoLandscape-env.yml`
+
+name of the environment is `MitoLandscape-env`
+
+
+
 
 ## license
 
